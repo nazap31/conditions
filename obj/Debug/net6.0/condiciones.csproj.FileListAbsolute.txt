@@ -1,0 +1,15 @@
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\bin\Debug\net6.0\condiciones.exe
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\bin\Debug\net6.0\condiciones.deps.json
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\bin\Debug\net6.0\condiciones.runtimeconfig.json
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\bin\Debug\net6.0\condiciones.dll
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\bin\Debug\net6.0\condiciones.pdb
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.csproj.AssemblyReference.cache
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.AssemblyInfoInputs.cache
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.AssemblyInfo.cs
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.csproj.CoreCompileInputs.cache
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.dll
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\refint\condiciones.dll
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.pdb
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\condiciones.genruntimeconfig.cache
+C:\Users\Naza\ucreativa programacion\talleres\06-condiciones\condiciones\obj\Debug\net6.0\ref\condiciones.dll
